@@ -141,7 +141,9 @@
   margin: auto;
   width: 50%;
 }
-
+.modalHeader{
+  position:relative;
+}
 .closebtn {
   position: absolute;
   right: 0px;
